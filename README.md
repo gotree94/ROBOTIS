@@ -18,16 +18,18 @@
    2.3 [GPIO 제어 : 센서, 모터, 통신](#23-gpio-제어--센서-모터-통신)  
    2.4 [네트워크 및 웹서버 구축, 카메라 제어, Pan/Tilt](#24-네트워크-및-웹서버-구축-카메라-제어-pantiltt)  
 
-<img width="818" height="456" alt="027" src="https://github.com/user-attachments/assets/b4289b25-ddc1-41f3-b079-2ded316810e9" />
-
 ---
 
 ## 1. OpenCR1.0
 
 🔗 [OpenCR1.0 e-Manual](https://emanual.robotis.com/docs/en/parts/controller/opencr10/)  
-🔗 [ST-LINK 구매 링크 (미소파츠)](https://smartstore.naver.com/misoparts/products/9353479057) — 💰 예상가격 약 822,800원  
 
 <img width="320" height="240" alt="opencr_product" src="https://github.com/user-attachments/assets/dbb056d6-b38c-4c2f-bc4f-d92e221fe426" />
+
+🔗 [ST-LINK 구매 링크 (미소파츠)](https://smartstore.naver.com/misoparts/products/9353479057) — 💰 예상가격 약 4,690원  
+
+<img width="818" height="456" alt="027" src="https://github.com/user-attachments/assets/b4289b25-ddc1-41f3-b079-2ded316810e9" />
+
 
 ### 1.1 CUBEIDE
 - 하드웨어 관련 리뷰  
