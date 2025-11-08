@@ -18,15 +18,29 @@ https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
 
 
 ## 1. OpenCR1.0
+   * ST-LINK : 4,690
 https://emanual.robotis.com/docs/en/parts/controller/opencr10/
 
 <img width="320" height="240" alt="opencr_product" src="https://github.com/user-attachments/assets/dbb056d6-b38c-4c2f-bc4f-d92e221fe426" />
 
 ### 1.1 CUBEIDE
+   * 하드웨어 관련 리뷰
+   * 소프트웨어 관련 리뷰
+   * LED
+   * GPIO
+   * Motor Control
+   * Buzzer
+   * I2C-CLCD
 
 ### 1.2 Arduino
+   * Arduino로 복원
+   * GPIO
+   * Motor Control
+   * Buzzer
+   * I2C-CLCD
 
-## 2. Raspberry PI 4
+## 2. Raspberry PI 4 (4GB) : 예상가격 822,800
+   * Micro SD Card 32GB : 
 
 ### 2.1 리눅스 기본 명령어
 
