@@ -24,7 +24,7 @@
 
 🔗 [OpenCR1.0 e-Manual](https://emanual.robotis.com/docs/en/parts/controller/opencr10/)  
 
-<img width="818" height="456" alt="027" src="https://github.com/user-attachments/assets/b4289b25-ddc1-41f3-b079-2ded316810e9" />
+<img width="320" height="240" alt="027" src="https://github.com/user-attachments/assets/b4289b25-ddc1-41f3-b079-2ded316810e9" />
 
 🔗 [ST-LINK 구매 링크 (미소파츠)](https://smartstore.naver.com/misoparts/products/9353479057) — 💰 예상가격 약 4,690원  
 
@@ -53,11 +53,11 @@
 ## 2. Raspberry PI 4 (4GB) — 💰 예상가격 약 822,800원  
 🔗 [Micro SD Card 32GB 포함](https://www.11st.co.kr/products/6645724808) — 💰 예상가격 약 5,660원  
 
-<img width="681" height="264" alt="028" src="https://github.com/user-attachments/assets/525b3b8e-80f4-4582-9d5a-e94d216ff4e6" />
+<img width="320" height="164" alt="028" src="https://github.com/user-attachments/assets/525b3b8e-80f4-4582-9d5a-e94d216ff4e6" />
 
 https://smartstore.naver.com/daesinman/products/11361679545
 
-<img width="824" height="443" alt="026" src="https://github.com/user-attachments/assets/7054186a-9665-42b6-b8c1-74344475ecbd" />
+<img width="320" height="240" alt="026" src="https://github.com/user-attachments/assets/7054186a-9665-42b6-b8c1-74344475ecbd" />
 
 ### 2.1 리눅스 기본 명령어
 ### 2.2 파이썬 프로그래밍
