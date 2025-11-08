@@ -49,7 +49,11 @@
 ---
 
 ## 2. Raspberry PI 4 (4GB) — 💰 예상가격 약 822,800원  
-- Micro SD Card 32GB 포함
+🔗 [Micro SD Card 32GB 포함](https://www.11st.co.kr/products/6645724808)
+
+<img width="681" height="264" alt="028" src="https://github.com/user-attachments/assets/525b3b8e-80f4-4582-9d5a-e94d216ff4e6" />
+
+https://smartstore.naver.com/daesinman/products/11361679545
 
 <img width="824" height="443" alt="026" src="https://github.com/user-attachments/assets/7054186a-9665-42b6-b8c1-74344475ecbd" />
 
