@@ -31,6 +31,7 @@ https://emanual.robotis.com/docs/en/parts/controller/opencr10/
    * Motor Control
    * Buzzer
    * I2C-CLCD
+   * GPS 관련 - UTM 좌표
 
 ### 1.2 Arduino
    * Arduino로 복원
