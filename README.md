@@ -25,7 +25,7 @@
 ## 1. OpenCR1.0
 
 🔗 [OpenCR1.0 e-Manual](https://emanual.robotis.com/docs/en/parts/controller/opencr10/)  
-🔗 [ST-LINK 구매 링크 (미소파츠)](https://smartstore.naver.com/misoparts/products/9353479057)
+🔗 [ST-LINK 구매 링크 (미소파츠)](https://smartstore.naver.com/misoparts/products/9353479057) — 💰 예상가격 약 822,800원  
 
 <img width="320" height="240" alt="opencr_product" src="https://github.com/user-attachments/assets/dbb056d6-b38c-4c2f-bc4f-d92e221fe426" />
 
@@ -49,7 +49,7 @@
 ---
 
 ## 2. Raspberry PI 4 (4GB) — 💰 예상가격 약 822,800원  
-🔗 [Micro SD Card 32GB 포함](https://www.11st.co.kr/products/6645724808)
+🔗 [Micro SD Card 32GB 포함](https://www.11st.co.kr/products/6645724808) — 💰 예상가격 약 5,660원  
 
 <img width="681" height="264" alt="028" src="https://github.com/user-attachments/assets/525b3b8e-80f4-4582-9d5a-e94d216ff4e6" />
 
