@@ -17,6 +17,9 @@ https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
    2.4 [네트워크 및 웹서버 구축, 카메라 제어, Pan/Tilt](#22-네트워크-및-웹서버-구축-카메라-제어-Pan/Tilt)
 
 
+<img width="818" height="456" alt="027" src="https://github.com/user-attachments/assets/b4289b25-ddc1-41f3-b079-2ded316810e9" />
+
+
 ## 1. OpenCR1.0
    * ST-LINK : 4,690
 https://emanual.robotis.com/docs/en/parts/controller/opencr10/
@@ -42,6 +45,8 @@ https://emanual.robotis.com/docs/en/parts/controller/opencr10/
 
 ## 2. Raspberry PI 4 (4GB) : 예상가격 822,800
    * Micro SD Card 32GB : 
+
+<img width="824" height="443" alt="026" src="https://github.com/user-attachments/assets/7054186a-9665-42b6-b8c1-74344475ecbd" />
 
 ### 2.1 리눅스 기본 명령어
 
