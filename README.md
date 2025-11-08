@@ -2,7 +2,7 @@
 
 https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
 
-<img width="682" height="449" alt="025" src="https://github.com/user-attachments/assets/ff0ddfc3-ef9c-4ff9-b3f8-1e421bcec6c0" />
+<img width="400" height="300" alt="025" src="https://github.com/user-attachments/assets/ff0ddfc3-ef9c-4ff9-b3f8-1e421bcec6c0" />
 
 # 📘 RM 목차
 
