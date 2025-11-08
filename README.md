@@ -20,7 +20,7 @@
 
 ---
 
-## 1. OpenCR1.0
+## 1. OpenCR1.0 (STM32F746ZGT6 / 32-bit ARM Cortex®-M7 with FPU (216MHz, 462DMIPS))
 
 🔗 [OpenCR1.0 e-Manual](https://emanual.robotis.com/docs/en/parts/controller/opencr10/)  
 
