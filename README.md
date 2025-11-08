@@ -19,7 +19,8 @@ https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
 
 ## 1. OpenCR1.0
 https://emanual.robotis.com/docs/en/parts/controller/opencr10/
-<img width="523" height="358" alt="opencr_product" src="https://github.com/user-attachments/assets/dbb056d6-b38c-4c2f-bc4f-d92e221fe426" />
+
+<img width="320" height="240" alt="opencr_product" src="https://github.com/user-attachments/assets/dbb056d6-b38c-4c2f-bc4f-d92e221fe426" />
 
 ### 1.1 CUBEIDE
 
